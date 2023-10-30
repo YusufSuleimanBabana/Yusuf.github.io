@@ -1,1 +1,96 @@
+# Site settings
+name: Yusuf Suleiman Babana
+description: Data Scientist and Analyst | Driving Informed Decision-Making through Data
+baseurl: "" # the subpath of your site, e.g. /portfolio
+url: "https://yusuf.github.io" # the base hostname & protocol for your site
+
+# Social media links
+twitter_username: big_Amoree
+github_username: yusufSuleimanBabana
+linkedin_username: https://www.linkedin.com/in/yusuf-suleiman-5850b2220
+# Add more social media links if needed
+
+# Build settings
+theme: jekyll-theme-cayman # You can change this to any other theme you prefer
+plugins:
+  - jekyll-feed
+
+# Work Experience
+work_experience:
+  - title: Statistician/Data Analyst
+    company: Independent Project Monitoring Company Limited (IPMC)
+    location: Lagos, Nigeria
+    duration: "February 2023 - Present"
+    description: |
+      Collecting, analyzing, and interpreting ESG and financial data to provide valuable insights and support informed decision-making. Design and implement data collection processes for ESG and financial metrics, clean and preprocess raw data, and apply a wide range of statistical techniques.
+
+  - title: CAV Data Analyst (Internship)
+    company: Polaris Digitech Limited
+    location: Lagos, Nigeria
+    duration: "June 2022 - November 2022"
+    description: |
+      Data gathering, cleaning, and reporting, combined with utilizing Google Maps API for accurate address validation. Using Excel and other data manipulation tools to ensure the integrity and accuracy of customer address information.
+
+   - title: Web3 Researcher (Internship)
+    company: Standard DAO 
+    location: United States
+    duration: "February 2022 - September 2022"
+    description: |
+      Data gathering, cleaning, and reporting, leveraging Google Sheets for insightful analyses. Exploring decentralized technologies, blockchain ecosystems, and emerging trends within the Web3 space. Collecting and curating diverse datasets, then applying meticulous data cleaning techniques to ensure accuracy and reliability. Adept at transforming raw data into actionable insights through systematic analysis and visualization, enhancing decision-making for stakeholders. Strong communicator skilled in preparing comprehensive reports and presentations that distill complex technical information into clear, accessible content. Enthusiastic about contributing expertise to advance understanding of Web3 technologies and their potential impact
+ 
+
+# Education
+education:
+  - degree: BSc Statistics
+    university: University of Ilorin
+    location: Ilorin, Nigeria
+    duration: "October 2016 - 2021"
+
+  - Certification: Google Data Analytics Professional Certificate
+    institution: Google
+    location: Online
+    duration: "July 2022 - October 2022"
+    description: |
+      Completed extensive four-month job-ready Google career training. Demonstrated hands-on experience with data cleaning, data visualization, project management, and interpreting and communicating data analytics findings.
+
+# Recent Certifications or Projects
+recent_certifications:
+  - title: British Airways Data Science Job Simulation on Forage
+    completion_date: "October 2023"
+    description: |
+      Completed a simulation focusing on how data science is a critical component of British Airways' success. Scraped and analyzed customer review data to uncover findings and built a predictive model to understand factors that influence buying behavior.
+
+  - title: KPMG AU Data Analytics Job Simulation on Forage
+    completion_date: "October 2023"
+    description: |
+      Completed a simulation focused on advising a client on customer targeting with the Data, Analytics, and modeling team at KPMG AU. Assessed data quality and completeness in preparation for analysis, analyzed data to target high-value customers based on demographics and attributes, and developed dashboards to communicate findings with visuals.
+
+ - title: Medical Insurance Prediction using MACHINE LEARNING
+    completion_date: "2023"
+    Link: https://colab.research.google.com/drive/1ViSUZrONzZ7vOeKyWn3zPKRPvdF2mAY6?usp=sharing
+
+ - title:  HR Employee Attrition Analysis and Visualization
+    completion_date: "2023"
+    Link: https://colab.research.google.com/drive/11IJpFowy3a31dI6lUtaFN--PFdth7EjP?usp=sharing
+
+     - title: Hypertension and Diabetes Prediction with Machine Learning
+    completion_date: "2023"
+    Link: https://colab.research.google.com/drive/1HTVxqlLGp94KGlMMkuBPTtq8zGkg0VCT?usp=sharing
+
+
+# Skills
+skills:
+  - Statistical Intuition
+  - Data Visualization
+  - Database Storage
+  - Analytical Thinking
+  - Problem Solving
+  - Continuous Learning
+  - Attention to Context
+  - Adaptability
+  - Time Management
+  - Communication Skills
+
+# Additional Configurations
+# Add any other configurations or sections you might need for your portfolio
 
